@@ -3,6 +3,9 @@
 **สังกัดสำนักงานคณะกรรมการการอาชีวศึกษา กระทรวงศึกษาธิการ**  
 *พัฒนาโดย: แผนกวิชาเทคโนโลยีคอมพิวเตอร์ วิทยาลัยเทคนิคท่าหลวงซิเมนต์ไทยอนุสรณ์*
 
+🌐 **เว็บไซต์ออนไลน์ (GitHub Pages):** [https://apolloacehub.github.io/thaluang-admission-2570/](https://apolloacehub.github.io/thaluang-admission-2570/)  
+📦 **GitHub Repository:** [https://github.com/ApolloaceHub/thaluang-admission-2570](https://github.com/ApolloaceHub/thaluang-admission-2570)
+
 ---
 
 ## 🏛️ ภาพรวมของระบบ (System Overview)
